@@ -19,7 +19,7 @@ I am NhonNguyen , a Developer from Vietnam.
 </p><p dir="auto">💻 Readme more <a href="https://github.com/NhonNguyen29?tab=repositories">GitHub page</a>.</p>
 <p dir="auto"></p>
 <p align="justify" dir="auto">
-</p><p dir="auto">  I can still work with <strong>.NET </strong> and <strong> Java Spring Boot  </strong> .</p>
+</p><p dir="auto">  I can still work with <strong>C# / .NET </strong> and <strong> Java / Java Spring Boot  </strong> .</p>
 <p dir="auto"></p>
 <p align="justify" dir="auto">
 </p><p dir="auto"> Gmail <a href="mailto:nhonnguyen2901@gmail.com">nhonnguyen2901@gmail.com</a>.</p>
